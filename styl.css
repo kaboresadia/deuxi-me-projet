@@ -1,0 +1,158 @@
+.s1{
+    background-color: #d9d9d9;
+    padding-bottom: 50px; 
+}
+.a1{
+    color:#ffffff;
+    font-size: 220px;
+    margin-left: 50px;
+
+}
+.a2{
+    color: #2f0ef1;
+    font-size: 50px;
+    margin-left: 50px;
+
+}
+.a3{
+    color: #111111;
+    width: 510px;
+    text-align: justify;
+    margin-left: 50px;
+}
+.pb5{
+    color: #d9d9d9;
+    position: relative;
+    top: 30px;
+    left: 600px;
+
+}
+.pb6{
+    width: 70px;
+    margin-left: 50px;
+}
+.b1{
+    color: #2f0ef1;
+    font-size: 40px;
+    margin-left: 150px;
+}
+.b2{
+    color: #111111;
+    text-align: justify;
+    width: 310px;
+    position: relative;
+    left: 150px;
+    bottom: 12px;
+
+}
+.pb1{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 80px;
+    left: 650px;
+    
+}
+.s2{
+    display: flex;
+}
+.s3{
+    display: flex;
+}
+.c1{
+    color: #2f0ef1;
+    font-size: 40px;
+    padding-left: 300px;
+}
+.c2{
+    text-align: justify;
+    width: 350px;
+    margin-left: 300px;
+}
+.pb2{
+    width: 300px;
+    height: 250px;
+    margin-left: 60px;
+}
+.s4{
+    background-color:#d9d9d9;
+    width: 705px;
+    height: 500px;
+    padding: 80px;
+    
+    
+}
+.pb3{
+    position: relative;
+    bottom: 50px;
+
+}
+.d1{
+    width: 475px;
+    text-align: justify;
+    font-size: 20px;
+
+}
+.d2{
+    background-color: #2f0ef1;
+    width: 250px;
+    height: 350px;
+    position: relative;
+    margin:0px 0px 0px 785px;
+    bottom: 512px;
+}
+.d3{
+    width: 250px;
+    position: relative;
+    bottom: 500px;
+    left: 880px;
+    font-size: 35px;
+    text-align: right;
+}
+.pb7{
+    width: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 1070px;
+    font-size: 20px;
+}
+.s5{
+    background-color: white;
+}
+.e1{
+    color: #2f0ef1;
+    width: 400px;
+    font-size: 50px;
+    padding-left: 100px;
+}
+.e2{
+    width: 500px;
+    padding-left: 700px;
+    text-align: justify;
+    position: relative;
+    bottom: 160px;
+    font-size: 20px;
+}    
+.f1{
+    color: #2f0ef1;
+    font-size: 60px;
+    padding-left: 50px;
+}
+.f2{
+    font-size: 20px;
+    text-align: justify;
+    width: 300px;
+    padding-left: 50px ;
+}
+.pb8{
+    width: 250px;
+    height: 300px;
+    padding-left: 600px;
+    position: relative;
+    top: 80px;
+    
+}
+.s20{
+    display: flex;
+    
+}
